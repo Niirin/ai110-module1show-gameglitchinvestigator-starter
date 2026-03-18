@@ -25,13 +25,13 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- [x] The game's purpose is to guess the secret number and one have a certain number of attempts at guessing as well as difficulty of guessing. Each guess has hints given whether to go for a Lower or higher number. The game helped me a lot in using AI as a partner to debug and fix a program in a controlled manner.
+- [x] Bugs I found and fixed: check_guess: hints were swapped; get_range_for_difficulty: Hard difficulty and easy range not correct; update_score: "Too High" on even attempt numbers added +5; attempts started at 1 causing one fewer guess; "Attempts left" display incorrect; hardcoded "1 and 100" in hint text
+- [x] I applied the fixes according to the mentioned bugs above.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [x] ![Winning game in Easy difficulty](image-1.png)
 
 ## 🚀 Stretch Features
 

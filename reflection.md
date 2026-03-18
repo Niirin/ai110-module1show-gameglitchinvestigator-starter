@@ -44,12 +44,15 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 ## 4. What did you learn about Streamlit and state?
 
 - How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
+- Answer: I would explain Streamlit "reruns" and session state by comparing it React's state and useEffects or the JS's DOM or similar concept.
 
 ---
 
 ## 5. Looking ahead: your developer habits
 
 - What is one habit or strategy from this project that you want to reuse in future labs or projects?
-  - This could be a testing habit, a prompting strategy, or a way you used Git.
+- Answer: One habit or strategy from this project would be to use multiple chat windows for each bug found and then later on generate test cases for each. It is a new working strategy which I think helps organize my workflow a lot.
 - What is one thing you would do differently next time you work with AI on a coding task?
+- Answer: I would refine my prompts more by giving more context and try to ask it to find inter-connectivity between bugs so that I would not have to prompt back and forth.
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
+- Answer: I used to think that using AI in my workflow would make me really disorganized as I would have to use so many prompts to build and debug my code. However, now I know of the strategies and ways to use it as a coding partner in more organized and effective way.
